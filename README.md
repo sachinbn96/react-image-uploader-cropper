@@ -10,4 +10,5 @@ cd backend
 npm install
 npm start
 
-demo on youtube: https://youtu.be/OaAJhCwvaig?si=hMujtM2uVcg53659
+demo: https://react-image-uploader-cropper.vercel.app/
+youtube: https://youtu.be/OaAJhCwvaig?si=hMujtM2uVcg53659

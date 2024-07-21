@@ -9,3 +9,5 @@ Backend setup
 cd backend
 npm install
 npm start
+
+demo on youtube: https://youtu.be/OaAJhCwvaig?si=hMujtM2uVcg53659
